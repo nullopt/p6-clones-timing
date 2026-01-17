@@ -18,7 +18,7 @@
       "alt1/*": ["./node_modules/alt1/dist/*"]
     },
     "baseUrl": ".",
-    "typeRoots": ["./node_modules/@types", "./src"]
+    "typeRoots": ["./node_modules/@types"]
   },
   "include": ["src/**/*", "src/assets.d.ts"],
   "exclude": ["node_modules", "dist"]
