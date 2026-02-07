@@ -9,7 +9,7 @@
     "forceConsistentCasingInFileNames": true,
     "outDir": "./dist",
     "rootDir": "./src",
-    "declaration": true,
+    "declaration": false,
     "sourceMap": true,
     "lib": ["ES2020", "DOM", "DOM.Iterable"],
     "resolveJsonModule": true,
